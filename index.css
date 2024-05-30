@@ -1,0 +1,23 @@
+h1 {
+  background-color: brown;
+  color: burlywood;
+}
+.class {
+  border: 5px solid black;
+}
+#id {
+  border: 10px solid blue;
+}
+ul {
+  background-color: aquamarine;
+  list-style-type: square;
+}
+ol {
+  background-color: rgb(51, 162, 125);
+}
+dl {
+  background-color: rgb(30, 94, 73);
+}
+.row {
+  background-color: blanchedalmond;
+}

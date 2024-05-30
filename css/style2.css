@@ -1,0 +1,30 @@
+h1 {
+  color: orange;
+  border: 3px solid red;
+}
+/* RGB colors */
+h2 {
+  color: rgb(122, 224, 178);
+  border: 3px solid burlywood;
+}
+/* RGBA color a stands for alpha(varies from ( 0 -1 ) */
+h3 {
+  color: rgba(145, 184, 170, 0.6);
+  border: 3px solid burlywood;
+  border-radius: 3px;
+}
+/* HEX colors */
+h4 {
+  color: #fff00f;
+  border: 3px solid rgb(171, 125, 64);
+}
+/* HSL colors -  hue , saturation and lightness  */
+h5 {
+  color: hsl(120, 56%, 50%);
+}
+/* HSLA colors  - a for ALPHA */
+body {
+  background-image: url("https://images.pexels.com/photos/1547813/pexels-photo-1547813.jpeg");
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
